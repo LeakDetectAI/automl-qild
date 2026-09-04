@@ -9,6 +9,9 @@
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Documentation Status](https://readthedocs.org/projects/automlquantildetect/badge/?version=latest)](https://automlquantildetect.readthedocs.io/?badge=latest)
 [![Paper](https://img.shields.io/badge/arXiv-2401.14283-red)](https://arxiv.org/abs/2401.14283)
+[![Information Science Paper](https://img.shields.io/badge/Information%20Science-Paper-blue)](https://www.sciencedirect.com/science/article/pii/S0020025525005511)
+[![ICAART Paper](https://img.shields.io/badge/ICAART%202022-Paper-green)](https://epub.ub.uni-muenchen.de/91887/)
+
 
 ### AutoML Approaches to Quantify and Detect Leakage
 The <strong>AutoMLQuantILDetect</strong> package utilizes AutoML approaches to accurately detect and quantify system information leakage.
